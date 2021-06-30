@@ -1,0 +1,4 @@
+bs4
+mysql-connector-python
+lxml
+requests
